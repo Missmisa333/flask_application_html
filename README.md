@@ -1,3 +1,15 @@
+#Type the following in the terminal to launch
+pip install flask
+FLASK_APP=flaskr
+FLASK_EVN=development
+flask run
+
+Make public
+Select the port that is green
+
+
+
+
 # A Python Flask template on Gitpod
 
 This is a [Python Flask](https://flask.palletsprojects.com/en/2.0.x) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
@@ -17,3 +29,4 @@ Click the above "Open in Gitpod" button to start a new workspace. Once you're re
 ### An existing project
 
 To get started with Python Flask on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+
