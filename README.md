@@ -1,4 +1,6 @@
 #Type the following in the terminal to launch
+
+
 pip install flask
 FLASK_APP=flaskr
 FLASK_EVN=development
